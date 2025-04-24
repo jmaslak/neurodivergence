@@ -99,6 +99,7 @@ like to be credited.
  - Eat in quieter location than cafeteria that is less overloading
  - Let coworkers know your preferences, and ask to move conversations
    and meetings from loud spaces
+ - Work from home / hybrid
 
 ## Visual Processing Difficulties
 
@@ -308,3 +309,8 @@ like to be credited.
  - Lights on a timer to remind you when you need to leave work or eat
    lunch
  - Add lunch and break times as appointments on your calendar
+
+## Commute
+
+ - Work from home
+ - Flexible start time (to account for unpredictable transit)
