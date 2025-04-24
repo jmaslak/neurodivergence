@@ -255,6 +255,9 @@ to focus on.
    to how draining the interactions were
  - Use communication modes that work best for you when something is
    really important
+ - Use augmentative and assistive communication (AAC), particularly for
+   emotionally-intense conversations
+ - Use instant messenger or other forms of asynchronous communication
 
 ## Cross-Neurotype Communication
 
