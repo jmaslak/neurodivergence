@@ -39,10 +39,10 @@ like to be credited.
 You can't pick 10 of these (or even all of them) and say "we're
 neurodivergence-friendly!" What one person needs is different from what
 another needs, and an environment perfect for one neurodivergent person
-may be hell for another. This is merely ideas. That said, some things
-clearly do help a lot of neurodivergent and other people (I.E. things
-like private offices, options for remote work, flexibility in
-scheduling, etc.). In fact the things that help the largest number of
+may be hell for another. This is merely a collection of ideas. That said,
+some things clearly do help a lot of neurodivergent and other people
+(I.E. things like private offices, options for remote work, flexibility
+in scheduling, etc.). In fact the things that help the largest number of
 people are the very things a lot of companies don't actually want to do.
 But if you want to claim neurodivergence-friendliness, those are areas
 to focus on.
