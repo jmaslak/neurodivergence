@@ -1,9 +1,9 @@
 # Workplace Accommodations / Adjustments
 
 A common thing people tell me after getting a diagnosis for autism, ADHD,
-or other type of neurodivergent is, "I told HR I'm ..., and they asked
-me what I need. I have no idea what I need!"  This is here to help with
-that.
+dyslexia, or other type of neurodivergent is, "I told HR I'm ..., and
+they asked me what I need. I have no idea what I need!"  This is here to
+help with that.
 
 This is a long list of possible accommodations.  Most probably will not
 help you, but it may be a good place to look for ideas. In many cases,
