@@ -273,6 +273,7 @@ to focus on.
    difficult tasks then
  - Ask for flexible hours or modified start/end times
  - Flex hours between weeks
+ - Part-time work
 
 ## Unwritten Rules
 
