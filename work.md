@@ -332,3 +332,13 @@ to focus on.
 
  - Work from home
  - Flexible start time (to account for unpredictable transit)
+
+## Anxiety
+
+Also see section on startle.
+
+ - Ask for photos of new places you will visit
+ - Create a formal plan for stressful parts of your visit (similar to
+   the ideas behind autism-related social stories) as the research may
+   help relieve some anxiety
+ - Ask organizers of events for details of the event before showing up
