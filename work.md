@@ -129,9 +129,10 @@ to focus on.
 ## Startle
 
  - Use a mirror on your monitor / cube / etc, so you can see behind you
- - Ask for desk located in a corner or other location you can see people
-   approaching
- - Select a conference room seat near a corner
+ - Ask for desk located in a corner, in a way that puts your back
+   towards a wall, or other location you can see people approaching
+ - Select a conference room seat near a corner or where your back is
+   against a wall
  - Adjust phone alert settings (particularly Amber Alerts in the USA!)
  - Adjust or ask others to adjust particularly startling sounds
  - Ask to be notified in advance of fire drills and consider working
