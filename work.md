@@ -63,8 +63,8 @@ to focus on.
  - Review prioritization in 1-1 with manager
  - Nagging reminders like [Due](https://www.dueapp.com/) does
  - Leaving "signposts" around that remind you that you need to do a task
-   (for instance, a piece of paper on the floor in front you have to walk
-   over to leave your office)
+   (for instance, a piece of paper on the floor in front of your desk that
+   you have to walk over to leave your office)
  - Notepad to jot down tasks you think of while otherwise busy
  - Consider a "daily task list" that takes just a few things off your
    master task list so you aren't overwhelmed. Create a new one each
