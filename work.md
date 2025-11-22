@@ -164,6 +164,8 @@ to focus on.
  - Use "remind" feature in email and Slack if you'll forget to respond
    to something.
  - Use a physical or computer todo list so you can see your tasks
+ - A storage space, such as a locker, for personal items that you want at
+   work sometimes but you might forget to bring to work.
 
 ## Writing
 
