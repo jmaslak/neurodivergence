@@ -80,6 +80,9 @@ to focus on.
  - Remove social media apps (use the web app)
  - Separate devices for personal/work (only use social media on personal
    device, leave personal device away from your workspace)
+ - Using a "kitchen safe" (a safe with a programmable timer that won't
+   unlock before the set amount of time) to lock away a distracting
+   item, such as a phone.
  - If you are a "hybrid" worker, consider where you are most productive,
    and plan difficult tasks where you are most productive (home vs.
    office)
